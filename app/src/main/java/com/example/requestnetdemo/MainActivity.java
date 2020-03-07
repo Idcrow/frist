@@ -3,7 +3,6 @@ package com.example.requestnetdemo;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -12,8 +11,6 @@ import com.example.requestnetdemo.bead.User;
 import com.squareup.okhttp.Request;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-/*tianshengjie  dsfsd*/
-     /*sdfsdfsdf*/
     private Button okhttpButton,okGo,retrofitButton;
 
     @Override
