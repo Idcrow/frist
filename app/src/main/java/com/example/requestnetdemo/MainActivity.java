@@ -12,7 +12,7 @@ import com.example.requestnetdemo.bead.User;
 import com.squareup.okhttp.Request;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
+/*tianshengjie  dsfsd*/
     private Button okhttpButton,okGo,retrofitButton;
 
     @Override
